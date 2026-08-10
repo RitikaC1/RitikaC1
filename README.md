@@ -6,15 +6,15 @@
 </p>
 
 ### 💻 Software Engineer & Grad Researcher | MS in Computer Science @ University of Florida
-I am an enterprise-vetted software engineer and advanced researcher who specializes in architecting high-throughput microservices, building production-grade full-stack architectures, and engineering end-to-end Machine Learning pipelines. I turn complex architectural constraints into highly scalable, low-latency code.
+I am an enterprise-vetted software engineer and advanced researcher specializing in high-throughput microservices, production-grade full-stack architectures, and end-to-end Machine Learning pipelines. My research focuses on **Agentic AI, RAG systems, Model Context Protocol (MCP), and Vector Databases (Qdrant)** to turn complex constraints into scalable, low-latency systems.
 
 ---
 
-## ⚡ Technologies Used 👨‍💻
+## ⚡ Technical Ecosystem 👨‍💻
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,pytorch,postman,vscode&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,postman,vscode&perline=12&theme=dark" />
   </a>
 </p>
 
@@ -22,10 +22,10 @@ I am an enterprise-vetted software engineer and advanced researcher who speciali
 
 ## 🛠️ Production Proven & Academic Leadership
 
+* **🧠 Advanced AI & Multimodal RAG Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
 * **⚡ Enterprise Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
 * **🛡️ FinTech Infrastructure:** Developed a 7-service microservices Risk Rating System utilizing containerized PostgreSQL data isolation and automated testing scripting.
-* **🤖 Advanced Vision & ML Pipelines:** Implemented complex deep learning architectures in PyTorch (such as EfficientNetV2-S), utilizing multi-model data fusion and custom threshold calibration to optimize predictive metrics.
-* **🎓 University Leadership:** Currently driving technical excellence at the University of Florida as both a Research Assistant (spearheading an end-to-end full-stack platform toward a formal research publication) and a Teaching Assistant.
+* **🎓 University Leadership:** Selected as Teaching Assistant for Cornell Tech's Break Through Tech, mentoring 60+ students in Machine Learning Foundations.
 
 ---
 
@@ -43,4 +43,4 @@ I am an enterprise-vetted software engineer and advanced researcher who speciali
 ---
 
 ## 🧠 What I'm Open To
-I am actively targeting full-time **Software Engineering (Backend/Systems)** and **AI/ML Infrastructure (MLOps)** roles in the US. If your team values clean architectural design, continuous integration, and heavy technical execution, let's connect!
+I am actively targeting full-time **Software Engineering (Backend/Systems)** and **AI/ML Infrastructure (MLOps / GenAI)** roles in the US. If your team values clean architectural design, continuous integration, and heavy technical execution, let's connect!
