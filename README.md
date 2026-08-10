@@ -14,7 +14,7 @@ I am an enterprise-vetted software engineer and advanced researcher who speciali
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,postgres,spring,django,react,docker,kubernetes,aws,jenkins,pytorch&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,pytorch,postman,vscode&perline=11&theme=dark" />
   </a>
 </p>
 
