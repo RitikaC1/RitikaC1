@@ -61,12 +61,12 @@ I am an enterprise-vetted software engineer and advanced researcher who speciali
 ## 📊 Automated Engineering Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ritika's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Ritika's Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikaC1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ritika's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaC1&layout=compact&theme=tokyonight" alt="Ritika's Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaC1&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
