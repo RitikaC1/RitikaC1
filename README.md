@@ -6,7 +6,7 @@
 </p>
 
 ### 💻 Software Engineer & Grad Researcher | MS in Computer Science @ University of Florida
-I am an enterprise-vetted software engineer and advanced researcher specializing in high-throughput microservices, production-grade full-stack architectures, and end-to-end Machine Learning pipelines. My research focuses on **Agentic AI, RAG systems, Model Context Protocol (MCP), and Vector Databases (Qdrant)** to turn complex constraints into scalable, low-latency systems.
+I am an enterprise-vetted software engineer and advanced researcher who specializes in architecting high-throughput microservices, building production-grade full-stack architectures, and engineering end-to-end Machine Learning & RAG pipelines. I turn complex architectural constraints into highly scalable, low-latency code.
 
 ---
 
@@ -16,6 +16,19 @@ I am an enterprise-vetted software engineer and advanced researcher specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,postman,vscode&perline=12&theme=dark" />
   </a>
+</p>
+
+
+### 🤖 AI, Machine Learning & Vector Search
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLIP_%26_SBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
 ---
