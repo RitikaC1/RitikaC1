@@ -35,7 +35,7 @@ I am an enterprise-vetted software engineer and advanced researcher who speciali
 
 ## 🛠️ Production Proven & Academic Leadership
 
-* **🧠 Advanced AI & Multimodal RAG Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
+* **🧠 AI & RAG Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
 * **⚡ Enterprise Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
 * **🛡️ FinTech Infrastructure:** Developed a 7-service microservices Risk Rating System utilizing containerized PostgreSQL data isolation and automated testing scripting.
 * **🎓 University Leadership:** Selected as Teaching Assistant for Cornell Tech's Break Through Tech, mentoring 60+ students in Machine Learning Foundations.
