@@ -6,7 +6,6 @@
 </p>
 
 ### 💻 Software Engineer & Grad Researcher | MS in Computer Science @ University of Florida
-I am an enterprise-vetted software engineer and advanced researcher who specializes in architecting high-throughput microservices, building production-grade full-stack architectures, and engineering end-to-end Machine Learning & RAG pipelines. I turn complex architectural constraints into highly scalable, low-latency code.
 
 ---
 
