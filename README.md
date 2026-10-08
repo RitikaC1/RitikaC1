@@ -5,11 +5,11 @@
   <a href="mailto:ritikarchaube@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### 💻 Software Engineer & Grad Researcher | MS in Computer Science @ University of Florida
+💻 Software Engineer & Grad Researcher | MS in Computer Science @ University of Florida
 
 ---
 
-## ⚡ Technical Ecosystem 👨‍💻
+⚡ Technical Ecosystem 👨‍💻
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
 </p>
 
 
-### 🤖 AI, Machine Learning & Vector Search
+🤖 AI, Machine Learning & Vector Search
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Production Proven & Academic Leadership
+🛠️ Production Proven & Academic Leadership
 
 * **🧠 AI & RAG Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
 * **⚡ Enterprise Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Automated Engineering Metrics
+📊 Automated Engineering Metrics
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RitikaC1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=2" alt="Ritika's GitHub Stats" height="180"/>
@@ -54,5 +54,5 @@
 
 ---
 
-## 🧠 What I'm Open To
+🧠 What I'm Open To
 I am actively targeting full-time **Software Engineering (Backend/Systems)** and **AI/ML Infrastructure (MLOps / GenAI)** roles in the US. If your team values clean architectural design, continuous integration, and heavy technical execution, let's connect!
