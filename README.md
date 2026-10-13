@@ -9,8 +9,6 @@
 
 ---
 
-⚡ Technical Ecosystem 👨‍💻
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,postman,vscode&perline=12&theme=dark" />
