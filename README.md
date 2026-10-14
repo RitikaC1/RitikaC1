@@ -9,7 +9,7 @@
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,js,cpp,go,postgres,mongodb,spring,django,react,html,css,docker,kubernetes,aws,azure,jenkins,git,nginx,postman,vscode&perline=12&theme=dark" />
   </a>
@@ -26,11 +26,11 @@
   <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/CLIP_%26_SBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p>
+</p> -->
 
 ---
 
-🛠️ Production Proven & Academic Leadership
+🛠️ Production Proven & Leadership
 
 * **🧠 AI & RAG Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
 * **⚡ Enterprise Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
