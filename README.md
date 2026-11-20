@@ -16,7 +16,7 @@
 </p>
 
 <!--
-🤖 AI, Machine Learning & Vector Search
+🤖 AI, Machine Learning & Vector Search -->
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white"/>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/CLIP_%26_SBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p> -->
+</p>
 
 ---
 
