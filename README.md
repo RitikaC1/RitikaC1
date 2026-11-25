@@ -33,7 +33,7 @@
 🛠️ Production Proven & Leadership
 
 * **🧠 AI Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
-* **⚡ Enterprise Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
+* **⚡ Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
 * **🛡️ Infrastructure:** Developed a 7-service microservices Risk Rating System utilizing containerized PostgreSQL data isolation and automated testing scripting.
 * **🎓 University Leadership:** Selected as Teaching Assistant for Cornell Tech's Break Through Tech, mentoring 60+ students in Machine Learning Foundations.
 
