@@ -30,7 +30,7 @@
 
 ---
 
-🛠️ Production Proven & Leadership
+🛠️ Leadership & Work
 
 * **🧠 AI Systems:** Engineered a multimodal retrieval system (CLIP, SBERT, Qdrant) and optimized a multi-agent RAG pipeline with conditional execution, reducing latency by >50% (3.6s to 1.6s).
 * **⚡ Engineering:** Spent 3+ years architecting enterprise pipelines, automating core workflows, and scaling system infrastructure to support thousands of daily interactions.
